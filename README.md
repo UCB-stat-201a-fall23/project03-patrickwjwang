@@ -10,6 +10,7 @@ Repository Directory
 Code:
   - *Lab201A_20Nov_submit.ipynb*
   - *Lab201A_20Nov_submit.pdf*
+
 All the math calculations are in the pdf file
 
 
