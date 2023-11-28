@@ -2,3 +2,12 @@
 ### Homework 3 from Lab 20 Nov
 
 Please upload the code you use for this homework (in the form of Jupyter notebook, R markdown file, etc) and a separate `pdf` file with the mathematical solutions. 
+
+Homework 3 Submission for Patrick Wang
+Repository Directory
+Code:
+  - *Lab201A_20Nov_submit.ipynb*
+  - *Lab201A_20Nov_submit.pdf*
+All the math calculations are in the pdf file
+
+
